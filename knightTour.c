@@ -1,7 +1,6 @@
 //  time complexity: O(n!)
 //  solution to knight's tour problem using backtracking algorithm
 
-//TODO upload to github!!!
 
 #include <stdio.h>
 #include <stdlib.h>
