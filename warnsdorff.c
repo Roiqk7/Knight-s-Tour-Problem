@@ -7,8 +7,6 @@ Warnsdorff’s Rule:
 2) We always move to an adjacent, unvisited square with minimal degree (minimum number of unvisited adjacent).
 */
 
-//TODO algorithm works perfectly, just make better return
-//TODO handle small N (2, 3, 4)
 
 #include <stdio.h>
 #include <stdlib.h>
