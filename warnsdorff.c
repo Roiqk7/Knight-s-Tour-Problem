@@ -1,5 +1,5 @@
 /*
-time complexity: O(n)
+time complexity: O(N^2)
 solution to Knight's tour problem using Warnsdorff’s algorithm
 
 Warnsdorff’s Rule: 
