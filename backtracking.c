@@ -1,4 +1,4 @@
-//  time complexity: O(8^(N^2))
+//  time complexity: O(N^2)
 //  solution to knight's tour problem using backtracking algorithm
 
 
