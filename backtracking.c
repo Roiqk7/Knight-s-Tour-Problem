@@ -1,4 +1,4 @@
-//  time complexity: O(N^2)
+//  time complexity: O(N!)
 //  solution to knight's tour problem using backtracking algorithm
 
 
